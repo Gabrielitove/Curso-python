@@ -20,4 +20,12 @@ Caracteristicas
 conjunto = {"Gabriel Velez", 22, 1.63, True, "Gabriel Velez"}
 
 # Creando un diccionario (dict)
-diccionario
+"""
+La estructura es key : value y separamos con comas
+"""
+
+diccionario = {
+    "nombre": "Gabriel Velez",
+    "edad": 22,
+    "altura": 1.63
+}
